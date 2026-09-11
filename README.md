@@ -1,24 +1,75 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Full-stack applications, developer tools, and event-based tech projects.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Interesting software projects, hackathons, and open-source ideas.<br><br>🤝 I’m looking for help with<br>Improving my backend architecture, system design, and writing production-ready code.<br><br>🌱 I’m currently learning<br>Backend development, APIs, databases, cloud deployment, and modern application development.<br><br>💬 Ask me about<br>React Native, Node.js, APIs, full-stack development, and building projects from scratch.<br><br>⚡ Fun fact<br>I somehow turn every college event into an excuse to build another software project. 😭
+<div align="center">
 
+# Charan Achanta
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/charan-achanta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:charanachanta2@gmail.com) 
+**Developer · AI/ML Builder · Full-Stack Engineer**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=flat&logo=fastlane&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=charanachanta2&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=charanachanta2&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=charanachanta2&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=charanachanta2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[github](https://github.com/charanachanta2)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=charanachanta2&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=charanachanta2&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+> Computer Science student building practical software across AI, full-stack development, and intelligent systems.<br>
+> I like turning ambitious ideas into working products.
+
+I build projects that combine software engineering with AI and real-world use cases.<br>
+Right now, a major focus is **LifeLink AI** — an emergency and healthcare platform designed around<br>
+patient records, nearby emergency services, analytics, AI assistance, SOS workflows, and connected healthcare services.
+
+I also experiment with developer tools, analytics platforms, local AI systems, mobile applications,<br>
+machine learning projects, and infrastructure.
+
+<img src="./hd-stack.svg" width="620" alt="stack"/>
+
+<samp>python &nbsp; javascript &nbsp; flask &nbsp; node.js &nbsp; react native &nbsp; html &nbsp; css &nbsp; mongodb &nbsp; sqlite &nbsp; firebase &nbsp; docker &nbsp; git &nbsp; linux &nbsp; ai/ml</samp>
+
+<img src="./hd-projects.svg" width="620" alt="projects"/>
+
+**[LifeLinkAI](https://github.com/charanachanta2/LifeLinkAI)** &nbsp;·&nbsp; <samp>healthcare, ai, full-stack</samp><br>
+Emergency and healthcare platform connecting patients with medical records,<br>
+analytics, nearby emergency services, AI assistance, SOS features, and healthcare providers.
+
+**[LocalGPT](https://github.com/charanachanta2/LocalGPT)** &nbsp;·&nbsp; <samp>ai, llm, local inference</samp><br>
+Local AI experimentation focused on running language-model-powered features<br>
+with greater control over the model and application stack.
+
+**[Multi-Tenant-Analytics-Platform](https://github.com/charanachanta2/Multi-Tenant-Analytics-Platform)** &nbsp;·&nbsp; <samp>flask, analytics, websocket</samp><br>
+Multi-tenant analytics platform for isolated tenant data, metric ingestion,<br>
+real-time dashboards, and embeddable analytics experiences.
+
+**[vitap_student_app](https://github.com/charanachanta2/vitap_student_app)** &nbsp;·&nbsp; <samp>mobile, student tools</samp><br>
+Student-focused application built around making useful campus information<br>
+and workflows easier to access from a mobile experience.
+
+**[Stock-Prediction-System](https://github.com/charanachanta2/Stock-Prediction-System)** &nbsp;·&nbsp; <samp>machine learning, python</samp><br>
+Machine-learning project exploring data-driven stock prediction and<br>
+the practical application of predictive models to financial time-series data.
+
+**[Adaptive-Priority-Cycle-Scheduling](https://github.com/charanachanta2/Adaptive-Priority-Cycle-Scheduling)** &nbsp;·&nbsp; <samp>algorithms, operating systems</samp><br>
+An experimental CPU scheduling project exploring adaptive priority and<br>
+cycle-based scheduling behavior.
+
+<img src="./hd-stats.svg" width="620" alt="stats"/>
+
+<div align="center">
+
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
+
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
+
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
+
+</div>
+
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
+
+This profile keeps the same minimal, developer-focused visual system as the reference README,<br>
+but intentionally removes the portrait and keeps the focus on projects, technologies, and activity.
+
+The stat graphics and section headings are local SVG assets rather than third-party README cards.<br>
+The included generator script can be adapted to refresh GitHub activity graphics automatically.
+
+Built for **[charanachanta2](https://github.com/charanachanta2)**.
